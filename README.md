@@ -1,16 +1,21 @@
-## Hi there 👋
+## ThreeLight2000
 
-<!--
-**ThreeLight2000/ThreeLight2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-native tools and product systems through
+[ThreeLight Studio](https://threelight-studio.com).
 
-Here are some ideas to get you started:
+My work focuses on agent workflows, context tooling, map/document interfaces,
+and small products that can be shipped in tight feedback loops.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Most of my public product work lives here:
+
+- [ThreeLight Studio Organization](https://github.com/ThreeLightStudio)
+- [threelight-studio.com(Brand Website)](https://threelight-studio.com)
+
+### Selected areas:
+
+- **MapBridge** - spatial interfaces and map-based product experiments
+- **PolyHarness** - structured AI workflow tooling
+- **Atlas** - context and knowledge navigation experiments
+
+This account is my personal maker profile.
+ThreeLight Studio is the home for public projects, writing, and product context.
